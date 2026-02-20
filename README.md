@@ -8,6 +8,7 @@ highlights industry  best practices in data engineering and analytics.
 
 ## Project Requirements 
 ### Building the Data Warehouse (Data Engineering)
+----------------------
 #### Objective
 Develop a modern data warehouse using SQL Server to consolidate sales date,enabling analytical reportinng and informed decision- making 
 -** Data Sources ** : Importing data from two source systems (CRM and ERP) provided as CSV files 
