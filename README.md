@@ -12,11 +12,11 @@ highlights industry  best practices in data engineering and analytics.
 #### Objective
 Develop a modern data warehouse using SQL Server to consolidate sales date,enabling analytical reportinng and informed decision- making 
 
-_** Data Sources ** : Importing data from two source systems (CRM and ERP) provided as CSV files 
-_** Data Quality ** : Cleanse and resolve data quality issues prior to analysis
-_** Integration ** : combine both sources into a single , user-friendly data model designed for analytical queries 
-_** Scope** : Focus on the lastest data set only ; historization of data is not required .
-_** Documentation ** : provide clear documentation on the data model to support both business stakeholder and analytics teams
+-** Data Sources ** : Importing data from two source systems (CRM and ERP) provided as CSV files 
+-** Data Quality ** : Cleanse and resolve data quality issues prior to analysis
+-** Integration ** : combine both sources into a single , user-friendly data model designed for analytical queries 
+-** Scope** : Focus on the lastest data set only ; historization of data is not required .
+-** Documentation ** : provide clear documentation on the data model to support both business stakeholder and analytics teams
 
 ----------------------------
 
