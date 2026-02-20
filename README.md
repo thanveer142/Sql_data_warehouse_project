@@ -20,8 +20,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales date,enabl
 ----------------------------
 
 ## License 🪪
-This project is licensed under the [MIT License ]. you are free to use , modify , and share this project with proper attribution 
-------------------------------------------------
-
-## About Me
+This project is licensed under the [MIT License ]. you are free to use , modify and share this project with proper attribution 
+----------------------
+#### About Me
 Hi there !😁 I'm **Thanveer** ,I'm an IT professional and passionate learner !
